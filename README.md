@@ -1,4 +1,4 @@
-# Form-Validation
+# Form validation
 
 Form validation https://yanakalskaya.github.io/Form-Validation/
 
